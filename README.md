@@ -1,4 +1,5 @@
-Hello there 👋 
+<h2>Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning Data Structures and Algorithms and Web Development
 - 💞️ I’m looking to collaborate on projects with hands-on dev experience
