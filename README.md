@@ -18,7 +18,7 @@ Second Year Undergraduate in the Department of Electrical Engineering at <a href
 <a href="https://youtube.com/brueducare" target="_blank">
 <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNvvsMxRPjCRQNSwMxgkNzvcmGBCKDJvdXcXfTwdKfXqXtGTcJVxnCLQSzmrspMXnBBLKL" target="_blank">
+<a href="mailto:bh8692080@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/bh8692080@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Bhavesh70655283" target="_blank">
