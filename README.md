@@ -1,11 +1,31 @@
-<h2>Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<div align = "center">
+<h1>Hello there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Bhavesh</h1>
+</div>
 
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning Data Structures and Algorithms and Web Development
 - 💞️ I’m looking to collaborate on projects with hands-on dev experience
-- 📫 How to reach me 
 
-<!---
-brupadhyay/brupadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align = "center">
+<img align= "center" src="https://github-readme-stats.vercel.app/api?username=brupadhyay&count_private=true&show_icons=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&bg_color=#b4b4b4&icon_color=2234AE">
+<div align="center">
+</br>
+</br>
+<h2> Connect with me 🐱‍👤</h2>
+<a href="https://www.linkedin.com/in/bhavesh-upadhyay-486785217/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://youtube.com/brueducare" target="_blank">
+<img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:bh8692080@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/bh8692080@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Bhavesh70655283" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+
+
+
+
