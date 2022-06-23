@@ -1,5 +1,5 @@
 <div align = "center">
-<h1>Hello there! 👋 I'm Bhavesh Upadhyay</h1>
+<h1>Hello there! 👋, I'm Bhavesh Upadhyay</h1>
 </div>
 <br>
 <p align="center">
@@ -7,7 +7,7 @@ Second Year Undergraduate in the Department of Electrical Engineering at <a href
 </p>
 <br>
 <div align = "center">
-<img align= "center" src="https://github-readme-stats.vercel.app/api?username=brupadhyay&count_private=true&show_icons=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&bg_color=#b4b4b4&icon_color=2234AE">
+<img align= "center" src="https://github-readme-stats.vercel.app/api?username=brupadhyay&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" style="max-width: 100%">
 <div align="center">
 </br>
 </br>
