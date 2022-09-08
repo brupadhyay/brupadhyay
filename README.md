@@ -11,6 +11,9 @@ Second Year Undergraduate in the Department of Electrical Engineering at <a href
 <div align="center">
 </br>
 </br>
+<div align = "center">
+<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brupadhyay&theme=blue-green">
+</div>
 <h2> Connect with me 🤝</h2>
 <a href="https://www.linkedin.com/in/bhavesh-upadhyay-486785217/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
