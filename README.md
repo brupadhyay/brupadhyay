@@ -28,7 +28,7 @@ Second Year Undergraduate in the Department of Electrical Engineering at <a href
 <a href="mailto:bh8692080@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/bh8692080@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Bhavesh70655283" target="_blank">
+<a href="https://twitter.com/brupadhyay17" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
