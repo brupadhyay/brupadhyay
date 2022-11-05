@@ -1,9 +1,9 @@
 <div align = "center">
-<h1>Hello there! 👋, I'm Bhavesh Upadhyay</h1>
+<h1>Hello there! 👋, I'm Bhavesh</h1>
 </div>
 <br>
 <p align="center">
-Second Year Undergraduate in the Department of Electrical Engineering at <a href ="https://vjti.ac.in" target="blank">VJTI</a>, Mumbai.<br>I'm currently learning Data Structures and Algorithms and Web Development,<br>I'm looking to collaborate on projects with hands-on dev experience.
+Third Year Undergraduate in the Department of Electrical Engineering at <a href ="https://vjti.ac.in" target="blank">VJTI</a>, Mumbai.<br>I'm currently learning Data Structures and Algorithms and Web Development,<br>I'm looking to collaborate on projects with hands-on dev experience.
 </p>
 <br>
 <div align = "center">
